@@ -6,5 +6,5 @@ Just Download and use.
 
 # Contact Information
 Name: Anup Uppin
-Email: anup11upp[in@gmail.com
+Email: anup11uppin@gmail.com
 GitHub: https://github.com/anuppin
